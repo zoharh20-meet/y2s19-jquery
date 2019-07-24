@@ -2,6 +2,7 @@
 /* START PROVIDED CODE */
 function randomX() {
   return Math.random() * $(window).width();
+
 }
 
 function randomY() {
@@ -10,3 +11,8 @@ function randomY() {
 /* END PROVIDED CODE */
 
 // Write your code below this line :)
+$("#moveButton").on("click", randomX (), randomY()) {
+	$("#message").css
+
+}
+    
